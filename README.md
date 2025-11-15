@@ -1,4 +1,4 @@
 # dsci-100-project_template
-Template project repository for DSCI-100
+Project repository for DSCI-100
 
-This is a line added in Jupyter Notebooks, to practice the flow of how to commit and push.
+Currently set up for the individual portion of the assigned group project. The planning is done in the PlanningNotebook, while ReportNotebook is the finalized individual report.
